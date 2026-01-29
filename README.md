@@ -20,20 +20,26 @@
 
 ### About Me:
 
-**Currently Working On**  
-Secure and scalable software systems, combining low-level systems programming (C/C++, Zephyr RTOS) with backend and full-stack development.
+**Software Engineering Focus**  
+Building production-grade systems with emphasis on systems programming, backend architecture, and scalable solutions. Specializing in low-level C/C++ development, embedded systems (Zephyr RTOS), and high-performance backend services using Node.js/Express.
+
+**Technical Expertise**  
+- **Systems Programming**: Memory management, multithreading, OS fundamentals, and network protocols
+- **Backend Development**: RESTful APIs, microservices architecture, database optimization, and API security
+- **Full-Stack Engineering**: MERN stack development with focus on performance and scalability
+- **Software Design**: Design patterns, clean architecture, SOLID principles, and code maintainability
 
 **Open to Collaborate On**  
-Open-source projects related to backend systems, distributed systems, developer tools, and performance-critical applications.
+Open-source projects in distributed systems, backend infrastructure, developer tooling, CI/CD pipelines, performance-critical applications, and embedded software.
 
-**Currently Learning**  
-System design, distributed systems, backend performance optimization, and advanced data structures & algorithms.
+**Currently Advancing In**  
+Distributed systems architecture, concurrent programming patterns, database internals, advanced algorithms, system design at scale, and cloud-native application development.
 
-**Ask Me About**  
-C/C++, Data Structures & Algorithms, Operating Systems, Computer Networks, backend development (Node.js), and MERN stack projects.
+**Technical Discussions**  
+Systems programming (C/C++), data structures & algorithms, operating systems internals, computer networks, TCP/IP protocols, backend scalability, database design, API architecture, software design patterns, and DevOps practices.
 
-**Fun Fact**  
-I enjoy working across the stack — from low-level firmware and protocols to full-stack web applications.
+**Engineering Philosophy**  
+Write clean, maintainable code. Optimize for readability first, then performance. Build systems that scale. Test thoroughly. Document extensively.
 
 **Reach Me**: pandeyaanjaneya76@gmail.com
 
