@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Systems+Programmer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Backend+Architect+%E2%9A%99%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Scalable+Solutions+%F0%9F%94%A5)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Systems+Programmer;Full+Stack+Developer;Backend+Architect;Open+Source+Enthusiast;Building+Scalable+Solutions)
 
 </div>
 
@@ -20,8 +20,8 @@
 
 ### About Me:
 
-**Current Work**  
-Building production-grade systems with emphasis on systems programming, backend architecture, and scalable solutions. Specializing in low-level C/C++ development, embedded systems (Zephyr RTOS), and high-performance backend services using Node.js/Express.
+**What I Build**  
+Production-grade systems with emphasis on systems programming, backend architecture, and scalable solutions. Specializing in low-level C/C++ development, embedded systems (Zephyr RTOS), and high-performance backend services using Node.js/Express.
 
 **Technical Expertise**  
 - **Systems Programming**: Memory management, multithreading, OS fundamentals, and network protocols
@@ -56,20 +56,10 @@ Write clean, maintainable code. Optimize for readability first, then performance
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyaanjaneya76@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aanjaneya24)
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Aanjaneya24&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
-
-</div>
-
----
 
 ## Tech Stack:
 
@@ -154,18 +144,54 @@ Write clean, maintainable code. Optimize for readability first, then performance
 
 ---
 
-## GitHub Stats:
+## Engineering Expertise & Technical Focus
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aanjaneya24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Aanjaneya24&theme=tokyonight&hide_border=true" />
+
+### Systems Architecture & Design
+
+```mermaid
+graph LR
+    A[Low-Level Systems] -->|C/C++| B[OS & RTOS]
+    A -->|Memory Management| C[Performance]
+    D[Backend Engineering] -->|Node.js/Express| E[APIs]
+    D -->|Database Design| F[Scalability]
+    G[Full-Stack Dev] -->|MERN Stack| H[Production Apps]
+    B --> I[Embedded Systems]
+    E --> J[Microservices]
+    F --> K[Distributed Systems]
+```
 
 </div>
 
+### Technical Problem Solving
+
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanjaneya24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+
+| **Data Structures** | **Algorithms** | **System Design** | **Networking** |
+|:---:|:---:|:---:|:---:|
+| Trees, Graphs, Heaps | Dynamic Programming | Scalability Patterns | TCP/IP, HTTP/HTTPS |
+| Hash Tables, Tries | Graph Algorithms | Load Balancing | WebSockets, REST |
+| Linked Lists, Stacks | Sorting & Searching | Database Sharding | Network Protocols |
+| Queues, Deques | Greedy, Backtracking | Caching Strategies | Socket Programming |
+
+</div>
+
+### Development Philosophy
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Write Clean Code → Test Thoroughly → Optimize Smartly       │
+│  Measure Performance → Document Well → Iterate Continuously  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**Engineering Mantras:**
+- *"Premature optimization is the root of all evil, but measured optimization is engineering excellence"*
+- *"Code for humans, optimize for machines"*
+- *"Build systems that fail gracefully and recover automatically"*
 
 </div>
 
