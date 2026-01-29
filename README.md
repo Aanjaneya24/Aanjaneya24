@@ -20,7 +20,7 @@
 
 ### About Me:
 
-**Software Engineering Focus**  
+**Current Work**  
 Building production-grade systems with emphasis on systems programming, backend architecture, and scalable solutions. Specializing in low-level C/C++ development, embedded systems (Zephyr RTOS), and high-performance backend services using Node.js/Express.
 
 **Technical Expertise**  
